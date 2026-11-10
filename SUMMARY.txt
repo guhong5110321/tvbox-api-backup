@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261109_042116
+TVBox 接口抓取报告  20261110_080619
 ==============================================================
 
 [裤佬线路] okhttp/3.15
@@ -166,20 +166,20 @@ TVBox 接口抓取报告  20261109_042116
   文件: None
   成功URL: 
 
-[嗨哥魔改] okhttp/3.15
-  状态: TEXT
-  文件: tvbox/嗨哥魔改.json
-  成功URL: https://api.hgyx.vip/hgyx.json
+[嗨哥魔改] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [讴歌] 
   状态: FAILED
   文件: None
   成功URL: 
 
-[香雅情] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[香雅情] okhttp/3.15
+  状态: JSON
+  文件: tvbox/香雅情.json
+  成功URL: https://play.iptv365.org/香雅情/api.json
 
 [老张] okhttp/3.15
   状态: JSON
